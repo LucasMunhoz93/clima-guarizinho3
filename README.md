@@ -4,7 +4,7 @@ Aplicação desenvolvida para consulta e monitoramento das condições ambientai
 
 ## 📋 Sobre o Projeto
 
-O **Clima Guarizinho 2** tem como objetivo fornecer informações climáticas atualizadas de forma rápida, simples e acessível, auxiliando no acompanhamento da previsão do tempo loca.
+O **Clima Guarizinho 2** tem como objetivo fornecer informações climáticas atualizadas de forma rápida, simples e acessível, auxiliando no acompanhamento da previsão do tempo local.
 
 ## ✨ Funcionalidades
 
