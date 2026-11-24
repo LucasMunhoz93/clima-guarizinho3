@@ -1,23 +1,23 @@
 # 🌦️ Clima Guarizinho 2
 
-Aplicação desenvolvida para consulta e monitoramento das condições ambientais em **Guarizinho** (Itapeva - SP)[span_4](start_span)[span_4](end_span).
+Aplicação desenvolvida para consulta e monitoramento das condições ambientais em **Guarizinho** (Itapeva - SP)[span_11](start_span)[span_11](end_span)[span_12](start_span)[span_12](end_span).
 
 ## 📋 Sobre o Projeto
 
-O **Clima Guarizinho 2** tem como objetivo fornecer informações climáticas atualizadas de forma rápida, simples e acessível, auxiliando no acompanhamento da previsão do tempo local[span_5](start_span)[span_5](end_span).
+O **Clima Guarizinho 2** tem como objetivo fornecer informações climáticas atualizadas de forma rápida, simples e acessível, auxiliando no acompanhamento da previsão do tempo local[span_13](start_span)[span_13](end_span)[span_14](start_span)[span_14](end_span).
 
 ## ✨ Funcionalidades
 
-- Consulta da temperatura atual, mínima e máxima[span_6](start_span)[span_6](end_span)
-- Previsão do tempo para os próximos dias[span_7](start_span)[span_7](end_span)
-- Informações sobre umidade relativa do ar, velocidade do vento e probabilidade de chuva[span_8](start_span)[span_8](end_span)
-- Interface responsiva e de fácil visualização[span_9](start_span)[span_9](end_span)
+- Consulta da temperatura atual, mínima e máxima[span_15](start_span)[span_15](end_span)[span_16](start_span)[span_16](end_span)
+- Previsão do tempo para os próximos dias[span_17](start_span)[span_17](end_span)[span_18](start_span)[span_18](end_span)
+- Informações sobre umidade relativa do ar, velocidade do vento e probabilidade de chuva[span_19](start_span)[span_19](end_span)[span_20](start_span)[span_20](end_span)
+- Interface responsiva e de fácil visualização[span_21](start_span)[span_21](end_span)[span_22](start_span)[span_22](end_span)
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Android** (projeto `ClimaGuarizinho-Android-Pr...` no repositório)[span_10](start_span)[span_10](end_span)
-- **Linguagem / Ambiente:** (ex.: Kotlin / Java / Android Studio — confirma ou ajusta aqui)
-- **API de Clima:** (ex.: OpenWeatherMap / WeatherAPI — confirma ou ajusta aqui)[span_11](start_span)[span_11](end_span)
+- **Android** (`ClimaGuarizinho-Android-Pr...` no repositório)[span_23](start_span)[span_23](end_span)[span_24](start_span)[span_24](end_span)
+- **Linguagem / Ambiente:** Kotlin / Java / Android Studio[span_25](start_span)[span_25](end_span)
+- **API de Clima:** OpenWeatherMap / WeatherAPI[span_26](start_span)[span_26](end_span)
 
 ## 🚀 Como Usar
 
